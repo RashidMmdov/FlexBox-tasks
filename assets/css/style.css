@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0px 10px;
+}
+
+.head .title>.Sm-size{
+    font-size: 50px;
+    font-weight: 300;
+    text-transform: lowercase;   
+}
+.head .title>.Str{
+    font-size: 50px;
+    font-weight: 800;
+    text-transform: lowercase;
+}
+.head img{
+    padding: 30px 15px;
+}
+.paragraf{
+    width: 500px;
+    height: 250px;
+}
+
+.Main .img-1{
+   
+    display: flex;
+    
+}
+.Main .img1{
+    width: 300px;
+    height: 300px;
+}
+.Main .img-1 p{
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    top: 460px;
+    
+    padding: 0px 340px;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+.Main .img-1 a{
+   
+    position: absolute;
+    padding: 0px 335px;
+}
+.Main .img-1 .final{
+    position: absolute;
+    top: 700px;
+}
+
+.Main{
+    display: flex;
+    
+}
+.Main .img-2 img{
+    padding: 0px 450px;
+}
+.Main .img-2 p{
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    top: 460px;
+    /* left: 22%; */
+    padding: 0px 780px;
+    font-size: 25px;
+}
+.Main .img-2 a{
+   
+    position: absolute;
+    left: 69%;
+}
+.Main .img-2 .final{
+    position: absolute;
+    top: 700px;
+}
+
+
+.Main-Center .img-3{
+   
+    display: flex;
+    
+}
+.Main-Center .img3{
+    width: 300px;
+    height: 300px;
+}
+.Main-Center .img-3 p{
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    top: 790px;
+    
+    padding: 0px 340px;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+.Main-Center .img-3 a{
+   
+    position: absolute;
+    padding: 0px 335px;
+}
+.Main-Center .img-3 .final{
+    position: absolute;
+    top: 1030px;
+}
+
+.Main-Center{
+    display: flex;
+    
+}
+.Main-Center .img-4 img{
+    padding: 0px 450px;
+}
+.Main-Center .img-4 p{
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    top: 790px;
+    /* left: 22%; */
+    padding: 0px 780px;
+    font-size: 25px;
+}
+.Main-Center .img-4 a{
+   
+    position: absolute;
+    left: 69%;
+}
+.Main-Center .img-4 .final{
+    position: absolute;
+    top: 1030px;
+}
